@@ -4,7 +4,7 @@
 
 A forked from [MrFlamez/Wurzelimperium-Bot](https://github.com/MrFlamez/Wurzelimperium-Bot)
 
-*Read this in other languages: [English](README.md), [German](README.de.md).*
+*Read this in other languages: [English](README.md), [German](README.de.md). [Български](README.bg.md)*
 
 # Wurzelimperium-Bot
 A Bot for the browsergame Wurzelimperium from Upjers. Enjoy free premium features in the game thanks to this bot!
